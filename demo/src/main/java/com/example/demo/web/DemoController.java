@@ -1,4 +1,4 @@
-package com.example.java.web;
+package com.example.demo.web;
 
 import java.util.ArrayList;
 import java.util.List;
